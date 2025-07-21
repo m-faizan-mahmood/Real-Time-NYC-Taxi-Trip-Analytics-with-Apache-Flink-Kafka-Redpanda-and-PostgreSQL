@@ -1,4 +1,4 @@
-# NYC Green Taxi Real-Time Streaming Pipeline 🚕📊
+# NYC Green Taxi Real-Time Streaming Pipeline 📊
 
 A **real-time data streaming pipeline** using **Apache Flink**, **Redpanda (Kafka-compatible)**, and **PostgreSQL** to simulate and analyze high-velocity transportation data from the **NYC Green Taxi trip dataset**.
 
