@@ -1,10 +1,3 @@
-You're right — GitHub `README.md` files should follow clean **Markdown syntax** for proper rendering, including appropriate use of headers, code blocks, bullet points, tables, and links.
-
-Here is the **properly formatted and polished GitHub `README.md`**, suitable for direct copy-paste:
-
----
-
-````markdown
 # NYC Green Taxi Real-Time Streaming Pipeline 🚕📊
 
 A **real-time data streaming pipeline** using **Apache Flink**, **Redpanda (Kafka-compatible)**, and **PostgreSQL** to simulate and analyze high-velocity transportation data from the **NYC Green Taxi trip dataset**.
@@ -168,17 +161,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-**Author:** Your Name
-**Email:** [your.email@example.com](mailto:your.email@example.com)
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**Author:** Faizan Mahmood
+**Email:** [faizanworkmail1@gmail.com](mailto:your.email@example.com)
+**LinkedIn:** [https://www.linkedin.com/in/m-faizan-mahmood](https://www.linkedin.com/in/m-faizan-mahmood)
 
 ---
 
 ⭐️ **If you found this project useful, don't forget to star it!**
-
-```
-
----
-
-Let me know if you'd like a **LICENSE file**, a **project logo/banner**, or a **GitHub Actions workflow** for CI/CD added to your repo.
-```
