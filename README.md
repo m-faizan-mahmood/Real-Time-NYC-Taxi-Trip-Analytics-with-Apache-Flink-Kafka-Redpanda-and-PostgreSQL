@@ -153,12 +153,6 @@ Pull requests and contributions are welcome. Please open an issue to discuss you
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 📬 Contact
 
 **Author:** Faizan Mahmood
