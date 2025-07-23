@@ -71,7 +71,7 @@ This starts:
 
 * Redpanda (Kafka-compatible broker) → `localhost:9092`
 * Apache Flink Dashboard → [http://localhost:8081](http://localhost:8081)
-* PostgreSQL → `localhost:5432` (username: `postgres`, password: `postgres`)
+* PostgreSQL → `localhost:5432` 
 
 ---
 
